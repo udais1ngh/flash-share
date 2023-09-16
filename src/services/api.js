@@ -1,6 +1,5 @@
 import axios from 'axios';
-import React from 'react'
-const API_URL='https://flashshare-app-backend.vercel.app'
+const API_URL='https://file-share-download.onrender.com'
 
 
 
